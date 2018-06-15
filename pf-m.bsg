@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Besiege machine save file.-->
-<Machine version="1" bsgVersion="1.3" name="pf-m_5">
+<Machine version="1" bsgVersion="1.3" name="pf-m_5-1">
     <!--The machine's position and rotation.-->
     <Global>
         <Position x="0.02124405" y="5.000629" z="7.123968" />
@@ -1134,7 +1134,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad5</StringArray>
+                <StringArray key="bmt-launch">Keypad6</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1170,7 +1170,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad8</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1242,7 +1242,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad8</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1260,7 +1260,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad5</StringArray>
+                <StringArray key="bmt-launch">Keypad6</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1278,7 +1278,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad9</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1296,7 +1296,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad9</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1314,7 +1314,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad5</StringArray>
+                <StringArray key="bmt-launch">Keypad6</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1389,7 +1389,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad9</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1413,8 +1413,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-0.7821529</X>
-                    <Y>-0.2862408</Y>
+                    <X>-0.7821531</X>
+                    <Y>-0.2862407</Y>
                     <Z>-0.7499871</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -1423,7 +1423,7 @@
                     <Z>28.12168</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>0.0001498373</X>
+                    <X>0.000147276</X>
                     <Y>269.9999</Y>
                     <Z>11.26171</Z>
                 </Vector3>
@@ -1443,7 +1443,7 @@
                 </Vector3>
                 <Vector3 key="end-position">
                     <X>-5.231875E-07</X>
-                    <Y>7.327696E-08</Y>
+                    <Y>5.092551E-08</Y>
                     <Z>-0.7499962</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -1452,7 +1452,7 @@
                     <Z>28.12166</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>1.536793E-05</X>
+                    <X>1.963679E-05</X>
                     <Y>269.9998</Y>
                     <Z>28.12169</Z>
                 </Vector3>
@@ -1471,12 +1471,12 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>0.2862088</X>
-                    <Y>-0.7828562</Y>
+                    <X>0.2862089</X>
+                    <Y>-0.7828561</Y>
                     <Z>-0.7500067</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-3.585849E-05</X>
+                    <X>-4.098114E-05</X>
                     <Y>270.0001</Y>
                     <Z>28.10882</Z>
                 </Vector3>
@@ -1500,8 +1500,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>9.505698E-08</X>
-                    <Y>-1.309676E-07</Y>
+                    <X>-1.009221E-08</X>
+                    <Y>-9.715438E-08</Y>
                     <Z>-0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -1510,7 +1510,7 @@
                     <Z>28.10881</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-2.732076E-05</X>
+                    <X>-2.90283E-05</X>
                     <Y>270.0001</Y>
                     <Z>28.10881</Z>
                 </Vector3>
@@ -1523,7 +1523,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad5</StringArray>
+                <StringArray key="bmt-launch">Keypad6</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1541,7 +1541,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad9</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1569,7 +1569,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad8</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1587,7 +1587,7 @@
                 <Scale x="1" y="1" z="1" />
             </Transform>
             <Data>
-                <StringArray key="bmt-launch">Keypad6</StringArray>
+                <StringArray key="bmt-launch">Keypad8</StringArray>
                 <Single key="bmt-duration">10</Single>
                 <Single key="bmt-strength">1.5</Single>
                 <Single key="bmt-charge">0.01</Single>
@@ -1611,17 +1611,17 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-0.2861834</X>
-                    <Y>-0.7828246</Y>
+                    <X>-0.2861835</X>
+                    <Y>-0.7828245</Y>
                     <Z>-0.7500064</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-0.0001570944</X>
+                    <X>-0.0001553868</X>
                     <Y>89.99978</Y>
                     <Z>326.2571</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>0.0001903915</X>
+                    <X>0.0001929529</X>
                     <Y>90.00008</Y>
                     <Z>343.1042</Z>
                 </Vector3>
@@ -1640,8 +1640,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-3.407506E-06</X>
-                    <Y>-2.351125E-07</Y>
+                    <X>-3.457069E-06</X>
+                    <Y>-2.682209E-07</Y>
                     <Z>-0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -1679,7 +1679,7 @@
                     <Z>343.1042</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>6.659434E-05</X>
+                    <X>6.48868E-05</X>
                     <Y>90.00001</Y>
                     <Z>326.2443</Z>
                 </Vector3>
@@ -1698,12 +1698,12 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>2.26721E-06</X>
-                    <Y>3.87183E-07</Y>
+                    <X>2.326814E-06</X>
+                    <Y>3.648315E-07</Y>
                     <Z>0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>9.220756E-05</X>
+                    <X>8.879246E-05</X>
                     <Y>90.00004</Y>
                     <Z>326.2443</Z>
                 </Vector3>
@@ -1729,10 +1729,10 @@
                 <Vector3 key="end-position">
                     <X>-0.5007186</X>
                     <Y>-0.6663312</Y>
-                    <Z>0.750022</Z>
+                    <Z>0.750021</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>7.427831E-05</X>
+                    <X>7.000944E-05</X>
                     <Y>89.99995</Y>
                     <Z>343.1035</Z>
                 </Vector3>
@@ -1756,12 +1756,12 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>2.250568E-06</X>
-                    <Y>1.680193E-06</Y>
-                    <Z>0.7499995</Z>
+                    <X>2.190964E-06</X>
+                    <Y>1.657842E-06</Y>
+                    <Z>0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>9.220756E-05</X>
+                    <X>9.050001E-05</X>
                     <Y>90.00011</Y>
                     <Z>326.2571</Z>
                 </Vector3>
@@ -1785,17 +1785,17 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>0.665561</X>
-                    <Y>-0.5007604</Y>
+                    <X>0.6655612</X>
+                    <Y>-0.5007603</Y>
                     <Z>0.7499872</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-0.0001323349</X>
+                    <X>-0.0001314811</X>
                     <Y>90.00002</Y>
                     <Z>343.1042</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-0.000109283</X>
+                    <X>-0.0001075755</X>
                     <Y>89.99994</Y>
                     <Z>326.2443</Z>
                 </Vector3>
@@ -1819,7 +1819,7 @@
                     <Z>0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-0.0001280661</X>
+                    <X>-0.0001314811</X>
                     <Y>89.99992</Y>
                     <Z>326.2443</Z>
                 </Vector3>
@@ -1843,7 +1843,7 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>0.5007449</X>
+                    <X>0.500745</X>
                     <Y>-0.6663423</Y>
                     <Z>0.7500133</Z>
                 </Vector3>
@@ -1853,7 +1853,7 @@
                     <Z>11.2624</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>0.0001050142</X>
+                    <X>0.0001058679</X>
                     <Y>269.9998</Y>
                     <Z>28.10879</Z>
                 </Vector3>
@@ -1873,16 +1873,16 @@
                 </Vector3>
                 <Vector3 key="end-position">
                     <X>1.4513E-06</X>
-                    <Y>-3.024655E-07</Y>
-                    <Z>0.7499995</Z>
+                    <Y>-2.801137E-07</Y>
+                    <Z>0.7499999</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>0.0001041604</X>
+                    <X>0.0001024528</X>
                     <Y>269.9998</Y>
                     <Z>28.1088</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>4.86651E-05</X>
+                    <X>5.037264E-05</X>
                     <Y>269.9998</Y>
                     <Z>28.10883</Z>
                 </Vector3>
@@ -1901,8 +1901,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-0.6655126</X>
-                    <Y>-0.5007904</Y>
+                    <X>-0.6655127</X>
+                    <Y>-0.5007901</Y>
                     <Z>0.7499881</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -1931,11 +1931,11 @@
                 </Vector3>
                 <Vector3 key="end-position">
                     <X>-8.957478E-07</X>
-                    <Y>3.249281E-06</Y>
+                    <Y>3.260457E-06</Y>
                     <Z>0.75</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>4.610378E-05</X>
+                    <X>4.525E-05</X>
                     <Y>270.0001</Y>
                     <Z>28.12165</Z>
                 </Vector3>
@@ -2011,17 +2011,17 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-4.768418E-06</X>
-                    <Y>4.423282E-05</Y>
+                    <X>-4.768419E-06</X>
+                    <Y>4.446511E-05</Y>
                     <Z>11.00002</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
                     <X>0.0001024529</X>
                     <Y>270</Y>
-                    <Z>-6.830191E-05</Z>
+                    <Z>-6.830192E-05</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-1.209859E-06</X>
+                    <X>-1.20987E-06</X>
                     <Y>90</Y>
                     <Z>-3.904683E-05</Z>
                 </Vector3>
@@ -2858,18 +2858,18 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-9.206796E-05</X>
-                    <Y>-2.217199E-05</Y>
+                    <X>-0.0001021527</X>
+                    <Y>-2.661894E-05</Y>
                     <Z>11.00002</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-9.562265E-05</X>
+                    <X>-9.220756E-05</X>
                     <Y>269.9999</Y>
                     <Z>135.0135</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-6.83019E-05</X>
-                    <Y>90.00014</Y>
+                    <X>-6.48868E-05</X>
+                    <Y>90.00013</Y>
                     <Z>224.9865</Z>
                 </Vector3>
             </Data>
@@ -2887,8 +2887,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-6.661248E-05</X>
-                    <Y>-3.00268E-05</Y>
+                    <X>-6.458927E-05</X>
+                    <Y>-2.90251E-05</Y>
                     <Z>11.00002</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -2897,7 +2897,7 @@
                     <Z>315.0135</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>8.025472E-05</X>
+                    <X>7.683963E-05</X>
                     <Y>89.99988</Y>
                     <Z>44.98653</Z>
                 </Vector3>
@@ -2916,8 +2916,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>7.801833E-05</X>
-                    <Y>-2.901283E-05</Y>
+                    <X>7.827143E-05</X>
+                    <Y>-2.928435E-05</Y>
                     <Z>11.00001</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -3006,17 +3006,17 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>9.824358E-05</X>
-                    <Y>-2.684517E-05</Y>
+                    <X>9.549286E-05</X>
+                    <Y>-2.466308E-05</Y>
                     <Z>11.00002</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
-                    <X>-0.0001024528</X>
+                    <X>-0.0001007453</X>
                     <Y>270.0001</Y>
                     <Z>224.9866</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-8.025472E-05</X>
+                    <X>-8.879246E-05</X>
                     <Y>89.99987</Y>
                     <Z>135.0134</Z>
                 </Vector3>
@@ -3094,7 +3094,7 @@
                 </Vector3>
                 <Vector3 key="end-position">
                     <X>-2.956372E-05</X>
-                    <Y>-5.778018E-05</Y>
+                    <Y>-5.801248E-05</Y>
                     <Z>11</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -3103,9 +3103,9 @@
                     <Z>-0.0003790756</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-9.639552E-05</X>
+                    <X>-9.639561E-05</X>
                     <Y>270</Y>
-                    <Z>0.0003790755</Z>
+                    <Z>0.0003790756</Z>
                 </Vector3>
             </Data>
         </Block>
@@ -3122,8 +3122,8 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>3.147107E-05</X>
-                    <Y>-5.778816E-05</Y>
+                    <X>3.18734E-05</X>
+                    <Y>-5.802041E-05</Y>
                     <Z>11</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
@@ -3190,9 +3190,9 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>-0.4130734</X>
+                    <X>-0.4130739</X>
                     <Y>-1.889467E-05</Y>
-                    <Z>0.4999705</Z>
+                    <Z>0.49997</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
                     <X>90</X>
@@ -3200,9 +3200,9 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-7.244462E-06</X>
+                    <X>-1.086433E-05</X>
                     <Y>270.0001</Y>
-                    <Z>-7.968961E-05</Z>
+                    <Z>-7.928021E-05</Z>
                 </Vector3>
             </Data>
         </Block>
@@ -3219,9 +3219,9 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-position">
-                    <X>0.4130534</X>
-                    <Y>7.56979E-06</Y>
-                    <Z>0.5000029</Z>
+                    <X>0.4130548</X>
+                    <Y>7.808208E-06</Y>
+                    <Z>0.5000033</Z>
                 </Vector3>
                 <Vector3 key="start-rotation">
                     <X>270</X>
@@ -3229,9 +3229,9 @@
                     <Z>0</Z>
                 </Vector3>
                 <Vector3 key="end-rotation">
-                    <X>-4.829722E-06</X>
+                    <X>3.619766E-06</X>
                     <Y>89.99989</Y>
-                    <Z>-5.31264E-05</Z>
+                    <Z>-4.870615E-05</Z>
                 </Vector3>
             </Data>
         </Block>
